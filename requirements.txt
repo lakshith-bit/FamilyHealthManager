@@ -107,12 +107,10 @@ pydantic_core==2.33.2
 Pygments==2.19.2
 PyJWT==2.10.1
 pyparsing==3.2.0
-pypiwin32==223
 python-dateutil==2.9.0.post0
 python-dotenv==1.0.1
 python-pptx==1.0.2
 pytz==2024.1
-pywin32==311
 PyYAML==6.0.2
 qrcode==8.2
 requests==2.32.5
@@ -141,7 +139,6 @@ virtualenv==20.34.0
 wcwidth==0.2.13
 websockets==15.0.1
 Werkzeug==3.0.3
-win32_setctime==1.2.0
 wsproto==1.2.0
 WTForms==3.1.2
 XlsxWriter==3.2.0
